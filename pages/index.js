@@ -1,7 +1,7 @@
 function Home() {
     return <main>
         <h1>
-            No começo era apenas mainersão...
+            No começo era apenas uma diversão...
         </h1>
         <p>
             ... Interesse, paixão. Mas, sem esperar, sem planejar, tudo mostrou o que realmente estava acontecendo.
