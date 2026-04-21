@@ -1,7 +1,7 @@
 function Home() {
-    return <div>
+    return <main>
         <h1>
-            No começo era apenas diversão...
+            No começo era apenas mainersão...
         </h1>
         <p>
             ... Interesse, paixão. Mas, sem esperar, sem planejar, tudo mostrou o que realmente estava acontecendo.
@@ -19,7 +19,7 @@ function Home() {
             Se você sente, algo parecido, pelo menos um pouquinho que seja, me dê um sorisso, um abraço e um beijo. ❤️
         </p>
 
-    </div>
+    </main>
 }
 
 export default Home;
